@@ -1,6 +1,4 @@
-a first line of text
-não sabia que dava pra editar texto direto do prompt
-This is the new line
+sintaxe: echo "texto entre aspas" >> file_txt
 cuidado porque tem que usar >> se usa > apaga tudo
 cuidado tem que usar git add pra incluir o arquivo no repo
 estagios de alteração no git: not added>staged(added)>commited
@@ -10,3 +8,4 @@ dá pra usar git diff para comparar a versao
 use git checkout pra voltar a uma versao vista no git log aí é só colocar os 5 primeiros caracteres do SHA
 é possível criar uma versão diferente using git branch
 pra ir pra essa versão tem que dar git checkout versão
+se as alterações forem satisfatórias use git merge pra adicionar
