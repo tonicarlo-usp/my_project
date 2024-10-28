@@ -9,3 +9,4 @@ use git checkout pra voltar a uma versao vista no git log aí é só colocar os 
 é possível criar uma versão diferente using git branch
 pra ir pra essa versão tem que dar git checkout versão
 se as alterações forem satisfatórias use git merge pra adicionar
+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
