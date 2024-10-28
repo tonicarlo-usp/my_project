@@ -1,5 +1,8 @@
 a first line of text
 não sabia que dava pra editar texto direto do prompt
-pretty cool
+This is the new line
 cuidado porque tem que usar >> se usa > apaga tudo
 cuidado tem que usar git add pra incluir o arquivo no repo
+estagios de alteração no git: not added>staged(added)>commited
+use the command sed -i 'Ns/.*/This is the new line/' example.txt to change a line N
+use echo texto entre aspas duplas pra entrar nova linha
