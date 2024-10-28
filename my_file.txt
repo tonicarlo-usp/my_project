@@ -1,0 +1,5 @@
+a first line of text
+não sabia que dava pra editar texto direto do prompt
+pretty cool
+cuidado porque tem que usar >> se usa > apaga tudo
+cuidado tem que usar git add pra incluir o arquivo no repo
