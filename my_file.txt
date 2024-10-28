@@ -7,3 +7,6 @@ estagios de alteração no git: not added>staged(added)>commited
 use the command sed -i 'Ns/.*/This is the new line/' example.txt to change a line N
 use echo texto entre aspas duplas pra entrar nova linha
 dá pra usar git diff para comparar a versao
+use git checkout pra voltar a uma versao vista no git log aí é só colocar os 5 primeiros caracteres do SHA
+é possível criar uma versão diferente using git branch
+pra ir pra essa versão tem que dar git checkout versão
